@@ -2,3 +2,75 @@ titulo{
 	
 	
 }
+
+
+
+h2{
+	
+	
+}
+
+.parrafo{
+	background-color:#624467;
+	padding:5px 5px;
+	
+}
+
+
+#ima{
+	width:25%;
+	
+}
+
+
+.clase{
+	
+	
+}
+
+.torneo{
+	
+	
+}
+
+
+table,th,td{
+	
+	
+}
+
+.navb{
+	background-color:#FFD300;
+	display:flex;
+	flex-wrap:wrap;
+	
+	
+}
+
+.navi:link,.navi:visited{
+	background-color:#FFD300;
+	text-align:center;
+	text-decoration:none;
+    color: black;
+    padding: 14px 16px;
+ 	
+	
+}
+
+.navi:hover,.navi:active{
+	background-color:#FF9700;
+	
+}
+
+
+
+ul{
+	style:square;
+	
+}
+
+footer{
+	background-color:;
+	align:center;
+	padding:5px 2px;
+}
